@@ -1,5 +1,7 @@
-body ={
-    background-color = #000000;
+/* ADDED FROM CNAKID PERSONAL MACHINE */
+
+body= {
+    background-color=#000000;
     text-align: center;
     from-family: Verdana, Geneva, Tahoma, sans-serif
 }
@@ -25,15 +27,15 @@ body ={
 
 
 /* LINKS */
-.link--cta{
+.link--cta {
     font-size: 16px;
     color: aquamarine;
 
-    
+
 }
 
 /* LINKS */
-.footer-copyright{
+.footer-copyright {
     font-size: 21px;
     color: grey;
     text-align: right;
